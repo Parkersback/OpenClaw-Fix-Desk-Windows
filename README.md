@@ -17,8 +17,14 @@ A local repair dashboard for **OpenClaw on Windows**.
   https://github.com/Parkersback/OpenClaw-Fix-Desk-Windows/releases
 - **Latest portable package / 最新便携包**  
   `OpenClaw-Fix-Desk-Windows-Portable.zip`
+- **Single-file launcher EXE / 单文件启动 EXE**  
+  `OpenClaw-Fix-Desk-Windows-Portable-Launcher.exe`
 - **Default local panel / 默认本地面板地址**  
   `http://127.0.0.1:41891`
+
+## Screenshot | 截图
+
+![OpenClaw Fix Desk Windows Screenshot](docs/screenshots/fix-desk-home.png)
 
 ---
 
@@ -164,6 +170,7 @@ Generated output:
 生成产物：
 
 - `release/OpenClaw-Fix-Desk-Windows-Portable.zip`
+- `release/OpenClaw-Fix-Desk-Windows-Portable-Launcher.exe`
 
 This is useful for:
 
@@ -175,6 +182,8 @@ This is useful for:
   移动到另一台 Windows 电脑
 - sharing with another OpenClaw user  
   分享给其他 OpenClaw 用户
+- giving someone a simpler single-file launcher entry  
+  给别人一个更简单的单文件启动入口
 
 ---
 
